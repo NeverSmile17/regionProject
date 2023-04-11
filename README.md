@@ -10,7 +10,7 @@ PUT http://localhost:8080/api/region/id - запрос для изменения
 
 DELETE http://localhost:8080/api/region/id - запрос для удаления информации о регионе
 
-Пример тела запроса для PUT и POST методов:
+Пример тела запроса для POST метода:
 
 {
     "id": "47",
